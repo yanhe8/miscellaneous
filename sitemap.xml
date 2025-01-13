@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/miscellaneous/</loc>
+    <loc>https://yanhe8.github.io/miscellaneous/blogs/</loc>
     <lastmod>2022-08-26T22:30:10+08:00</lastmod>
   </url><url>
-    <loc>/miscellaneous/blogs/test-cjk/</loc>
+    <loc>https://yanhe8.github.io/miscellaneous/blogs/test-cjk/</loc>
     <lastmod>2022-08-26T22:30:10+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://yanhe8.github.io/miscellaneous/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://yanhe8.github.io/miscellaneous/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://yanhe8.github.io/miscellaneous/tags/</loc>
   </url>
 </urlset>
