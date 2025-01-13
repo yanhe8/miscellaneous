@@ -1,3 +1,5 @@
+theme = 'nostyleplease'
+
 [module]
   [module.hugoVersion]
     extended = true
